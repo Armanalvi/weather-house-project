@@ -1,3 +1,4 @@
+A beginner Python project that combines weather API data and house price estimation.
 Weather & House Price Prediction Project
 
 Overview
